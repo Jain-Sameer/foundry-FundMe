@@ -122,4 +122,4 @@ contract FundMe {
 // 4. Function Selector
 // 5. abi.encode / decode
 // 6. Hash with keccak256
-// 7. Yul / Assembly
+// 7. Yul / Assembly`
